@@ -46,9 +46,6 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [ELK + Hadoop = Hola Mundo en Big Data](...)
-- [IPFS el nuevo internet](...)
-- [Jupyter + Docker = Data science](https://medium.com/@benjamin.casazza/jupyter-docker-data-science-5b9b7c6ba726)
 <!-- BLOG-POST-LIST:END -->
 
 ---
