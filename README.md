@@ -1,6 +1,6 @@
 ### Hi there, I'm Ben -  [uracilo][website] 👋
 
-[![Website](https://img.shields.io/website?label=datatobsn.com&style=for-the-badge&url=https%3A%2F%2Fdatatobsn.com)](http://datatobsn.com)
+[![Website](https://img.shields.io/website?label=datatobsn.com&style=for-the-badge&url=http%3A%2F%2Fdatatobsn.com)](http://datatobsn.com)
 
 
 ## I'm a Husband, Developer, and Teacher!!
