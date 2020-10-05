@@ -46,6 +46,8 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [COVID-19 + Docker = Data Science](https://medium.com/@benjamin.casazza/covid-19-docker-data-science-516193c3273b?source=rss-b8410e80706c------2)
+- [Jupyter + Docker = Data science](https://medium.com/@benjamin.casazza/jupyter-docker-data-science-5b9b7c6ba726?source=rss-b8410e80706c------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
