@@ -7,7 +7,7 @@
 ## I'm a Husband, Developer, and Teacher!!
 
 - 🌱 I’m big fan of the dinosaurs! 
-- 👯 I’m looking to collaborate with other data scientist and SRE
+- 👯 I’m looking to collaborate with other data scientist and SRE teams
 - 🥅 2021 Goals: Contribute in a one Open Source project
 
 ### Connect with me:
