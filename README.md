@@ -5,7 +5,6 @@
 
 ## I'm a Husband, Developer, and Teacher!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m big fan of the dinosaurs! 
 - 👯 I’m looking to collaborate with other data scientist and SRE
 - 🥅 2021 Goals: Contribute in a one Open Source project
