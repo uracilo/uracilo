@@ -56,4 +56,4 @@
 [website]: http://datatobsn.com
 [kaggle]: https://www.kaggle.com/uracilo
 [linkedin]: https://www.linkedin.com/in/benjamin-casazza-6079ab11a/
-[medium]: https://medium.com/@benjamin.casazza
+[medium]: https://benjamin-casazza.medium.com/
