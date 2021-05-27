@@ -31,8 +31,8 @@
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][website]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website]
-[<img align="left" alt="Docker" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" />][website]
-[<img align="left" alt="AWS" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />][website]
+[<img align="left" alt="Docker" width="26px" src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/vertical-logo-monochromatic.png?itok=erja9lKc/sites/default/files/d8/styles/role_icon/public/2019-07/Moby-logo.png" />][website]
+[<img align="left" alt="AWS" width="26px" src="https://commons.wikimedia.org/wiki/File:AWS_Simple_Icons_AWS_Cloud.svg" />][website]
 [<img align="left" alt="python" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" />][website]
 
 
