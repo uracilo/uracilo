@@ -4,11 +4,10 @@
 [![Website](https://img.shields.io/website?label=datatobsn.com&style=for-the-badge&url=http%3A%2F%2Fdatatobsn.com)](http://datatobsn.com)
 
 
-## I'm a Husband, Developer, and Teacher!!
+## I'm Developer, and Teacher!!
 
 - 🌱 I’m big fan of the dinosaurs! 
 - 👯 I’m looking to collaborate with other data scientist and SRE teams
-- 🥅 2021 Goals: Contribute in a one Open Source project
 
 ### Connect with me:
 
